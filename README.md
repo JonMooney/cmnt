@@ -41,7 +41,7 @@ It utilizes the following features:
 - Navigate to 'http://localhost:3001'
 - Use the interface to create an account and then browse topics and comment
 
--- Deployed Link Placeholder--
+[Heroku Link](https://node-cmnt.herokuapp.com/)
 
 ### Screenshot:
 
